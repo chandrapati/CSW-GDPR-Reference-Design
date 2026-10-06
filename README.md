@@ -127,4 +127,4 @@ Authoritative source(s) for **GDPR (EU 2016/679)**. Always validate control refe
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a GDPR (EU 2016/679) attestation. Validate all control references against the current official GDPR (EU 2016/679) text ([official source](https://eur-lex.europa.eu/eli/reg/2016/679/oj)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
